@@ -3,6 +3,8 @@
 	<head>
     	<meta charset="utf-8">
     	<meta name="keywords" content="one, two, three">
+			<link href="https://fonts.googleapis.com/css2?family=Righteous&display=swap" rel="stylesheet">
+			<link href="https://fonts.googleapis.com/css2?family=Raleway:wght@200;300;400;500&display=swap" rel="stylesheet">
 
 		<title>DRNKR</title>
 
@@ -10,23 +12,30 @@
 		<link rel="stylesheet" href="css/style.css">
 	</head>
 	<body>
-		<h1>DRNKR</h1>
-		<span>Cocktail Search Engine</span>
-		<input type="text" name="" value="" placeholder="Enter cocktail name">
-		<button type="button" name="button">Search</button>
- 		<div class="hidden">
-			<h2>Name</h2>
-			<img src="" alt="">
-			<h4>Ingredients</h4>
-			<ul>
-				<li id="ing1"></li>
-				<li id="ing2"></li>
-				<li id="ing3"></li>
-				<li id="ing4"></li>
-				<li id="ing5"></li>
-			</ul>
-			<h3>Instructions</h3>
-		</div>
+		<section class="main">
+			<h1>DRNKR</h1>
+			<span>Cocktail Search Engine</span>
+			<section class="inputContainer">
+				<svg class="nav-icons" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" role="img" width="2em" height="2em" preserveAspectRatio="xMidYMid meet" viewBox="0 0 16 16"><g fill="#6d6e6f"><path d="M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001c.03.04.062.078.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1.007 1.007 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0a5.5 5.5 0 0 1 11 0z"/></g></svg>
+				<input type="text" name="" placeholder="">
+			</section>
+			<button type="button" name="button">Search</button>
+		</section>
+		<section class="content">
+			<div class="hidden">
+				<img src="" alt="">
+				<h2>Name</h2>
+				<ul>
+					<li id="ing1"></li>
+					<li id="ing2"></li>
+					<li id="ing3"></li>
+					<li id="ing4"></li>
+					<li id="ing5"></li>
+				</ul>
+				<h3></h3>
+			</div>
+		</section>
+
 		<script type="text/javascript" src="js/main.js"></script>
 	</body>
 </html>
