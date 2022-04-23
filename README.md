@@ -4,10 +4,10 @@
 </div>
 
 #Motivation: 
-<p>As a former bartender, I wanted to create a simple powerful tool with a minimalistic design.</p>
+As a former bartender, I wanted to create a simple powerful tool with a minimalistic design.
 	
 #Description:
-<p>It asks the user to enter a cocktail name, retrieves the cocktail from an api, and displays an image, ingredients, and instructions.</p>
+It asks the user to enter a cocktail name, retrieves the cocktail from an api, and displays an image, ingredients, and instructions.
 	
 <h4>Api: https://thecocktaildb.com/api</h4>	
 
