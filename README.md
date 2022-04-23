@@ -1,6 +1,6 @@
 <h1 align="center">DRNKR - Cocktail Search Engine | <a href="https://drnkr.netlify.app/">Website</a></h1>
 <div align="center">
-	  <img src="" width="100%" />
+	  <img src="https://github.com/GregTorrillo/DRNKR/blob/main/drnkr.gif" width="100%" />
 </div>
 
 #Motivation: 
