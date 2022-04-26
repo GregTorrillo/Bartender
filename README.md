@@ -9,7 +9,7 @@ As a former bartender, I wanted to create a simple powerful tool with a minimali
 ## Description:
 It asks the user to enter a cocktail name, retrieves the cocktail from an api, and displays an image, ingredients, and instructions.
 	
-<h4>Api: https://thecocktaildb.com/api</h4>	
+<h4>API: https://thecocktaildb.com/api</h4>	
 
 ## Techs used:
 <p align="left"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></p>
