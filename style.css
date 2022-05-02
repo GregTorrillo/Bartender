@@ -170,7 +170,7 @@ h3{
 
 /* ------------------MEDIA QUERY-lARGE DESKTOP---------------------- */
 
-@media screen and (min-width: 1440px){
+@media screen and (max-width: 1440px){
   div{
     width: 60%;
     height: 1400px;
