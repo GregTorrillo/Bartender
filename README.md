@@ -3,7 +3,7 @@
 	  <img src="https://github.com/GregTorrillo/DRNKR-Cocktail-Search-Engine/blob/main/DRNKR.gif" width="100%" />
 </div>
 <br>
-<p align="center"><a href="https://drnkr.netlify.app/" target="_blank" rel="noreferrer"><img src="https://github.com/GregTorrillo/GregTorrillo/blob/main/assets/github-website-button.png" alt="Website" width="125px" height="45px"></a></p
+<p align="center"><a href="https://drnkr.netlify.app/" target="_blank" rel="noreferrer"><img src="https://github.com/GregTorrillo/GregTorrillo/blob/main/assets/github-website-button.png" alt="Website" width="120px" height="45px"></a></p
 
 ## Motivation: 
 As a former bartender, I wanted to create a simple powerful tool with a minimalistic design.
