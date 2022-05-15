@@ -9,7 +9,7 @@
 As a former bartender, I wanted to create a simple powerful tool with a minimalistic design.
 	
 ## Description:
-It asks the user to enter a cocktail name, retrieves the cocktail from an api, and displays an image, ingredients, and instructions.
+The user inputs a cocktail name, spirit, or ingredient and the search engine will retrieve the cocktail from an api, and displays an image, ingredients, and instructions.
 	
 <h4>API: https://thecocktaildb.com/api</h4>	
 
