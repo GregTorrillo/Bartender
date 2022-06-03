@@ -2,7 +2,6 @@
 
 document.querySelector('button').addEventListener('click',getDrink)
 
-
 function getDrink(){
   let drink = document.querySelector('input').value
 
